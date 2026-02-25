@@ -9,20 +9,20 @@
 
 ## 相机
 
-<img src="C:\Users\wjy\AppData\Roaming\Typora\typora-user-images\image-20260225222701646.png" alt="image-20260225222701646" style="zoom:50%;" />
+![image-20260225222701646](.\img\image-20260225222701646.png)
 
 ## 棋盘格
 
-<img src="C:\Users\wjy\AppData\Roaming\Typora\typora-user-images\image-20260225223211017.png" alt="image-20260225223211017" style="zoom:50%;" />
+<img src=".\img\image-20260225223211017.png" alt="image-20260225223211017" style="zoom:50%;" />
 
 ## 检测的角点
 
-<img src="C:\Users\wjy\AppData\Roaming\Typora\typora-user-images\image-20260225222933027.png" alt="image-20260225222933027" style="zoom:50%;" />
+![image-20260225222933027](.\img\image-20260225222933027.png)
 
 ## 双目摄像头采集的图片
 
-<img src="C:\Users\wjy\AppData\Roaming\Typora\typora-user-images\image-20260225223043588.png" alt="image-20260225223043588" style="zoom:50%;" />
+![image-20260225223043588](.\img\image-20260225223043588.png)
 
 ## 重建结果
 
-<img src="C:\Users\wjy\AppData\Roaming\Typora\typora-user-images\image-20260225223100409.png" alt="image-20260225223100409" style="zoom:50%;" />
+![image-20260225223100409](.\img\image-20260225223100409.png)
