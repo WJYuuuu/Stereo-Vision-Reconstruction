@@ -5,24 +5,21 @@
 
 ## 整体设计思路
 
-<img src="C:\Users\wjy\AppData\Roaming\Typora\typora-user-images\image-20260225222832547.png" alt="image-20260225222832547" style="zoom:50%;" />
+<img src=".\img\image-20260225222832547.png" alt="image-20260225222832547" style="zoom:50%;" />
 
 ## 相机
-
-![image-20260225222701646](.\img\image-20260225222701646.png)
+<img src=".\img\image-20260225222701646.png" alt="image-20260225222832547" style="zoom:50%;" />
 
 ## 棋盘格
 
 <img src=".\img\image-20260225223211017.png" alt="image-20260225223211017" style="zoom:50%;" />
 
 ## 检测的角点
+<img src=".\img\image-20260225222933027.png" alt="image-20260225222933027" style="zoom:50%;" />
 
-![image-20260225222933027](.\img\image-20260225222933027.png)
 
 ## 双目摄像头采集的图片
-
-![image-20260225223043588](.\img\image-20260225223043588.png)
+<img src=".\img\image-20260225223043588.png" alt="image-20260225223043588" style="zoom:50%;" />
 
 ## 重建结果
-
-![image-20260225223100409](.\img\image-20260225223100409.png)
+<img src=".\img\image-20260225223100409.png" alt="image-20260225223100409" style="zoom:50%;" />
