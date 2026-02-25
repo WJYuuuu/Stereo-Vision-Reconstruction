@@ -1,0 +1,14 @@
+
+
+
+
+²Ù×÷Ê±¼ä: Wed May 29 14:53:38 2024
+Matched Points Disparity and Depth:
+Point 0: Disparity = 846, Depth = 770.478
+Point 1: Disparity = 1060.02, Depth = 614.915
+Point 2: Disparity = 1054.05, Depth = 618.399
+Point 3: Disparity = 505.311, Depth = 1289.95
+Point 4: Disparity = 1061.22, Depth = 614.223
+Point 5: Disparity = 1064.2, Depth = 612.499
+Point 6: Disparity = 468.525, Depth = 1391.23
+Point 7: Disparity = 482.108, Depth = 1352.03
